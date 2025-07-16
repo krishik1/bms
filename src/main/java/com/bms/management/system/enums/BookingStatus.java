@@ -1,2 +1,7 @@
-package com.bms.management.system.enums;public enum BookingStatus {
+package com.bms.management.system.enums;
+
+public enum BookingStatus {
+    CONFIRMED,
+    CANCELLED,
+    PENDING
 }
